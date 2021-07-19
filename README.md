@@ -1,3 +1,3 @@
 # sliding-puzzle
 
-[](https://pinetools.com/split-image)
+[split](https://pinetools.com/split-image)
